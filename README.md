@@ -57,4 +57,4 @@ jupyter notebook
 
 For any inquiries or discussions, feel free to reach out:  
 **GitHub:** [raymundojavajr](https://github.com/raymundojavajr)  
-**LinkedIn:** [linkedin.com/in/raymundojavajr](https://linkedin.com/in/raymundojavajr)  
+**LinkedIn:** [linkedin.com/in/raymundojavajr](www.linkedin.com/in/raymundo-java-jr-aba81ba9)  

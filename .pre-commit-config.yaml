@@ -1,6 +1,5 @@
 repos:
-  - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.1.6  # Change this to the latest version
+  - repo: https://github.com/charliermarsh/ruff-pre-commit
+    rev: v0.0.241  # Use the latest stable version of ruff-pre-commit
     hooks:
       - id: ruff
-      - id: ruff-format
